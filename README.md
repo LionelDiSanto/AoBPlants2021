@@ -3,4 +3,4 @@ This repository contains all the data and R scripts used for our paper: **Seed m
 
 For a brief description of all uploaded files visit our wiki page!
 
-For questions, please contact Lionel Di Santo (lionel.disanto@ndsu.edu)
+For questions, please contact Lionel Di Santo (lionel.disanto@ndsu.edu).
